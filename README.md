@@ -4,6 +4,8 @@ Author: Matthew Szypula
 
 Main Code in SzypulaGame.java
 
+To play clone repository and run client
+
 
 
 ![Image of game](https://github.com/mszy123/Matt-Star-Wars-Game/blob/main/Screenshot%202023-10-15%20204240.png)
